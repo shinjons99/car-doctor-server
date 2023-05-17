@@ -1,7 +1,6 @@
 {
   "name": "car-doctor-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -15,5 +14,14 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongodb": "^5.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinjons99/car-doctor-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shinjons99/car-doctor-server/issues"
+  },
+  "homepage": "https://github.com/shinjons99/car-doctor-server#readme",
+  "description": ""
 }
